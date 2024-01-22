@@ -18,3 +18,4 @@ F:\Learning Software Fundamentals\ToDoWPFDesktopApp\ToDoWPF\obj\Debug\net8.0-win
 F:\Learning Software Fundamentals\ToDoWPFDesktopApp\ToDoWPF\obj\Debug\net8.0-windows\ToDoWPF.pdb
 F:\Learning Software Fundamentals\ToDoWPFDesktopApp\ToDoWPF\obj\Debug\net8.0-windows\ToDoWPF.genruntimeconfig.cache
 F:\Learning Software Fundamentals\ToDoWPFDesktopApp\ToDoWPF\obj\Debug\net8.0-windows\ref\ToDoWPF.dll
+F:\Learning Software Fundamentals\ToDoWPFDesktopApp\ToDoWPF\obj\Debug\net8.0-windows\ToDoWPF.sourcelink.json
